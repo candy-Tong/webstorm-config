@@ -1,0 +1,10 @@
+<templateSet group="user">
+  <template name="desc" value="/**&#10; * @author candychuang&#10; * @date $date$&#10; * @Description:&#10; */" description="文件描述" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

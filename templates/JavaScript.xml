@@ -1,0 +1,10 @@
+<templateSet group="JavaScript">
+  <template name="log" value="console.log($END$)" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="desc" value="/**&#10; * @Description: &#10; * @author candychuang&#10; * @date $date$ &#10;*/" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

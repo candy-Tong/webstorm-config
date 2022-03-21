@@ -1,0 +1,20 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="test" type="AUTO_DETECTED" />
+      <mapping ext="tpl" type="HTML" />
+      <mapping pattern="xr-init" type="JavaScript" />
+      <mapping pattern="xr-list" type="JavaScript" />
+      <mapping pattern="xr-delete" type="JavaScript" />
+      <mapping pattern="xr-add" type="JavaScript" />
+      <mapping pattern="xr" type="JavaScript" />
+      <mapping ext="mp4" type="Native" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern="123" type="PLAIN_TEXT" />
+      <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
+      <mapping ext="pac" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
+    </extensionMap>
+  </component>
+</application>
