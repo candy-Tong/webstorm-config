@@ -742,6 +742,10 @@
           <option name="url" value="https://git.woa.com/candychuang/tdesign-starter-core" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/HcySunYang/code-for-vue-3-book" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\tencent\app" />
