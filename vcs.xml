@@ -778,6 +778,10 @@
           <option name="url" value="https://github.com/candy-Tong/core" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/cuixiaorui/mini-vue" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\tencent\app" />
