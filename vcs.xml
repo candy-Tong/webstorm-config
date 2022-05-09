@@ -790,6 +790,10 @@
           <option name="url" value="https://github.com/candy-Tong/hrm-test" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.woa.com/FuryWeb/monorepo-template.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\tencent\app" />
