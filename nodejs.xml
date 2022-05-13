@@ -1,5 +1,8 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
+    <local-interpreter path="D:/code/tencent/leetcode/node_modules/.bin/esno.cmd">
+      <version-cache version="16.14.2" last-modified="1652444898780" />
+    </local-interpreter>
     <local-interpreter path="D:/Program Files/nodejs/node.exe" excluded="true" />
   </component>
 </application>
