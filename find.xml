@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'cdd-web'" />
+    <option name="defaultScopeName" value="Project 'cdd-web'" />
+    <option name="SEARCH_SCOPE" value="Project 'cdd-web'" />
     <mask>*.vue</mask>
     <mask>*.jsx</mask>
     <mask>*.json</mask>
