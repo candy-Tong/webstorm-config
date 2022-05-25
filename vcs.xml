@@ -802,6 +802,10 @@
           <option name="url" value="https://git.woa.com/riskcon/cdd-web" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.woa.com/riskcon/qf-public-business-service-web" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\tencent\app" />
