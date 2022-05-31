@@ -814,6 +814,10 @@
           <option name="url" value="https://github.com/pnpm/pnpm" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.woa.com/tmfe/hel/hel-repo" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\tencent\app" />
