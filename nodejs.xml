@@ -1,9 +1,9 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
     <local-interpreter path="C:/Program Files/nodejs/node.exe">
-      <version-cache version="16.8.0" last-modified="1630322344947" />
+      <version-cache last-modified="0" />
     </local-interpreter>
-    <local-interpreter path="D:/app/LeetCode/node_modules/.bin/esno.CMD">
+    <local-interpreter path="D:/app/LeetCode/node_modules/.bin/esno.CMD.exe">
       <version-cache last-modified="0" />
     </local-interpreter>
     <local-interpreter path="D:/Program Files/nodejs/node.exe">
@@ -11,6 +11,9 @@
     </local-interpreter>
     <local-interpreter path="D:/code/tencent/leetcode/node_modules/.bin/esno.cmd">
       <version-cache version="16.14.2" last-modified="1652444898780" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/AppData/Local/pnpm/esno.CMD">
+      <version-cache version="3.4.3" last-modified="1655609093402" />
     </local-interpreter>
   </component>
 </application>
