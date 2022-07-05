@@ -866,6 +866,10 @@
           <option name="url" value="https://git.woa.com/riskcon/audit-handle-web.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.woa.com/riskcon/qf-public-business-service-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\app" />
