@@ -2,13 +2,14 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.vue</mask>
     <mask>*.jsx</mask>
     <mask>*.json</mask>
     <mask>!md</mask>
     <mask>*.xml</mask>
-    <mask>*.css</mask>
     <mask>*.shtml</mask>
     <mask>*.shtm</mask>
     <mask>*.ng</mask>
@@ -20,5 +21,6 @@
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
+    <mask>*.css</mask>
   </component>
 </application>
