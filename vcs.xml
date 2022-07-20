@@ -894,6 +894,10 @@
           <option name="url" value="https://github.com/vue-microfrontends/root-config" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/vue-microfrontends/rate-dogs" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\app" />
