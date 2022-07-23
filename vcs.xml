@@ -887,6 +887,14 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="https://git.woa.com/fire-eye/cpl/cpl-manage-web" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/vue-microfrontends/root-config" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="https://github.com/vue-microfrontends/rate-dogs" />
           <option name="userName" value="" />
         </UrlAndUserName>
