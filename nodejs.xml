@@ -9,7 +9,7 @@
     </local-interpreter>
     <local-interpreter path="D:/code/tencent/leetcode/node_modules/.bin/esno.cmd" />
     <local-interpreter path="C:/Program Files/nodejs/node.exe">
-      <version-cache version="16.8.0" last-modified="1630322344947" />
+      <version-cache version="16.13.0" last-modified="1636029662701" />
     </local-interpreter>
   </component>
 </application>
