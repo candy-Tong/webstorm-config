@@ -914,6 +914,10 @@
           <option name="url" value="https://git.woa.com/riskcon/tianyuan-web" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.woa.com/FIT_ard_TCenter_APDG/fxjc" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\app" />
