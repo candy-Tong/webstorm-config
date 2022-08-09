@@ -8,7 +8,6 @@
     <mask>*.json</mask>
     <mask>!md</mask>
     <mask>*.xml</mask>
-    <mask>*.css</mask>
     <mask>*.shtml</mask>
     <mask>*.shtm</mask>
     <mask>*.ng</mask>
@@ -17,8 +16,9 @@
     <mask>*.sht</mask>
     <mask>*.html</mask>
     <mask>*.ats</mask>
-    <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
+    <mask>*.ts</mask>
+    <mask>*.css</mask>
   </component>
 </application>
