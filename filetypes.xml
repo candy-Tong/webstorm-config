@@ -12,9 +12,7 @@
       <mapping ext="mp4" type="Native" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
-      <mapping pattern=".stylelintignore" type="PLAIN_TEXT" />
       <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="pac" type="PLAIN_TEXT" />
