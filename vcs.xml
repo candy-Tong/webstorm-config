@@ -954,6 +954,10 @@
           <option name="url" value="https://github.com/vitejs/vite.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.woa.com/qfProjectTemplate/tds-base-template" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\app" />
