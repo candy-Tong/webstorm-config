@@ -962,6 +962,10 @@
           <option name="url" value="https://github.com/vueComponent/ant-design-vue-pro" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/shfshanyue/node-examples" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\app" />
