@@ -970,6 +970,10 @@
           <option name="url" value="https://github.com/vuejs/rollup-plugin-vue" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/candy-Tong/tdesign-vue-next-starter" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\app" />
