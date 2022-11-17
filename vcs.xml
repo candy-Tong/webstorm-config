@@ -990,6 +990,10 @@
           <option name="url" value="https://github.com/vueComponent/ant-design-vue" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.woa.com/evanmao/reports" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\app" />
