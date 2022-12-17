@@ -1002,6 +1002,10 @@
           <option name="url" value="https://github.com/hel-eco/hel-tpl-remote-lib" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.woa.com/candychuang/hel-vite-template" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\app" />
