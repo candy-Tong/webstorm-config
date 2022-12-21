@@ -1022,6 +1022,10 @@
           <option name="url" value="https://git.woa.com/riskcon/insight-graph" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.woa.com/FIT_ard_TCenter_APDG/graph-analyze-web" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\app" />
